@@ -6,4 +6,5 @@ Este arquivo é um teste de envio das aulas.
 - Win7
 - win8
 - Win10
-- configurações
+- configurações.
+- otimização.
