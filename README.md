@@ -11,3 +11,4 @@ Tipos de Windows:
 - configurações
 - win11
 
+- otimização.
