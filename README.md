@@ -1,5 +1,8 @@
-# Livro de Receitas :man_cook:
+# Lista de programas :computer:
 
-Teste de livro para testa o git
+Este arquivo é um teste de envio das aulas.
 
-- strogonoff
+- Strogo
+- Win7
+- Win10
+- configurações
