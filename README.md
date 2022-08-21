@@ -2,7 +2,10 @@
 
 Este arquivo é um teste de envio das aulas.
 
-- Strogo
+Tipos de Windows:
+
 - Win7
+- win8.1
 - Win10
 - configurações
+- win11
